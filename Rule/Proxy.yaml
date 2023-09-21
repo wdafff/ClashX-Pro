@@ -15,6 +15,7 @@ payload:
   - IP-CIDR,147.92.128.0/17,Proxy
   - IP-CIDR,203.104.144.0/21,Proxy
   # > Other
+  - DOMAIN-SUFFIX,v2ex.com,Proxy
   - DOMAIN-SUFFIX,4shared.com,Proxy
   - DOMAIN-SUFFIX,520cc.cc,Proxy
   - DOMAIN-SUFFIX,881903.com,Proxy
